@@ -3,10 +3,9 @@ package com.ems.emsbackend.model;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
-import java.sql.Time;
 
 @Entity
-public class Employee {
+public class expenseList {
 
     @Id
     @GeneratedValue
